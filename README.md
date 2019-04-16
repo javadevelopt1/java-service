@@ -26,6 +26,6 @@ java -jar nomedojar.jar
 
 GIT COMMANDS;
 
-git add .
-git commit -m "comentario"
+git add . \n
+git commit -m "comentario" \n
 git push
