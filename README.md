@@ -15,3 +15,10 @@ FASE 2
 - Inserir um Registro no Mongo via Postman;
 - Alterar um Registro no Mongo via Postman;
 - Deletar um Registro no Mongo via Postman;
+
+
+MAVEN :
+
+mvn install
+
+java -jar nomedojar.jar
