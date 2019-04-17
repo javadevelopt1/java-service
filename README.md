@@ -31,3 +31,10 @@ GIT COMMANDS;
 - git add . 
 - git commit -m "comentario"
 - git push
+
+Atualizar seu projeto;
+
+- git pull
+
+user - javadevelopt1@gmail.com
+senha - java@2019
