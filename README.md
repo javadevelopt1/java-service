@@ -13,10 +13,11 @@ FASE 2
 - Instalar o Banco de Dados MongoDB Server;
 - Fazer Conexão com MongoDB;
 - Criar um Repository usando Spring Data (pox.xml);
-- Inserir um Registro no Mongo via Postman;
-- Consulta um Registro no Mongo via Postman;
-- Alterar um Registro no Mongo via Postman;
-- Deletar um Registro no Mongo via Postman;
+- Criar um Classe Investimentos com os parametros (papel, valor, variacao);
+- Inserir um Registro de Investimentos no Mongo via Postman;
+- Consulta um Registro de Investimentos no Mongo via Postman;
+- Alterar um Registro de Investimentos no Mongo via Postman;
+- Deletar um Registro de Investimentos no Mongo via Postman;
 
 
 MAVEN :
