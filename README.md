@@ -36,5 +36,5 @@ Atualizar seu projeto;
 
 - git pull
 
-user - javadevelopt1@gmail.com
-senha - java@2019
+- user - javadevelopt1@gmail.com
+- senha - java@2019
