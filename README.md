@@ -6,6 +6,7 @@ FASE 1
 - Criar um Controller e chamar via Postman (RestController, pom.xml);
 - Subir a Aplicação e Executar o Serviço via Postman;
 - Entender o que é HTTP methods GET,POST, PUT, DELETE;
+- Escrever aqui as definiçes do item acima;
 
 FASE 2
 
