@@ -8,10 +8,12 @@ FASE 1
 - Entender o que é HTTP methods GET,POST, PUT, DELETE;
 - Escrever aqui as definiçes do item acima;
 
-GET - O metodo GET solicita a solicitação de um recurso especifico, que pode ser um arquivo html, xml etc;
-POST - O método POST é utilizado quando queremos criar um recurso. Quando usamos POST, os dados vão no corpo da requisição e não na URI;
-PUT - Requisita que um recurso seja "guardado" na URI fornecida. Se o recurso já existir, ele deve ser atualizado. Se não existir, pode ser criado;
-DELETE - Exclui um recurso especifico;
+
+ - GET : O metodo GET solicita a solicitação de um recurso especifico, que pode ser um arquivo html, xml etc;
+ - POST : O método POST é utilizado quando queremos criar um recurso. Quando usamos POST, os dados vão no corpo da requisição e não na URI;
+ - PUT : Requisita que um recurso seja "guardado" na URI fornecida. Se o recurso já existir, ele deve ser atualizado. Se não existir, pode ser criado;
+ - DELETE : Exclui um recurso especifico;
+
 
 FASE 2
 
